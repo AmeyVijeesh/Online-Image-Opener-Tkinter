@@ -26,6 +26,6 @@ The module `io` is buildin.
 
 # 
 
-The app has been tested on Mac OSX and works well.
+The app has been tested on Mac OSX and works well. 
 **Not tested in Windows.**
 
