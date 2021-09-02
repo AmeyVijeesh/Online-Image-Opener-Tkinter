@@ -22,7 +22,7 @@ pip install requests
 
 ```
 
-The module `io` is buildin.
+The module `io` is built-in.
 
 # 
 
